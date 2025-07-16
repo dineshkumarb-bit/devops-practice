@@ -1,2 +1,2 @@
-My first text file
-commit should be done
+This is from master branch (conflicting line)
+
