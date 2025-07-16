@@ -1,2 +1,1 @@
-My first text file
-commit should be done
+this is my first file in feature branch
