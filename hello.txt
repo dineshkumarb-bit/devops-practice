@@ -1,1 +1,2 @@
-This is from master branch
+This is a merged version from both branches
+
